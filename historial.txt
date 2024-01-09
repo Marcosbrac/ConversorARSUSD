@@ -1,0 +1,6 @@
+1: 231 ARS = 231 USD. Cotizacion: 1 usd = 1 ARS.
+2: 23122 ARS = 23122 USD. Cotizacion: 1 usd = 1 ARS.
+3: 33 ARS = 33 USD. Cotizacion: 1 usd = 1 ARS.
+4: 3344 ARS = 3344 USD. Cotizacion: 1 usd = 1 ARS.
+5: 334423 ARS = 334423 USD. Cotizacion: 1 usd = 1 ARS.
+ig: marcossbrac.
